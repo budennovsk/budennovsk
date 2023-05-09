@@ -9,14 +9,11 @@
 <br>
 <h1 align="center">⚡🌱💬Будьте самоучками, не ждите, когда вас научит жизнь.⚡🌱💬 <p>(Эрих Мария Ремарк)</p> </h1>
 <br>
-<h1>👯  </h1>
+<h1>👯 Социальные сети </h1>
 <div id="badges">
-   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   <a href="https://www.instagram.com/svetloewill/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VgI9SujRQ4GlgsWzQv/giphy.gif" width="100"/>
 </div>
 
 <!--
