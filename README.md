@@ -5,7 +5,7 @@
 <h3 align="center">I am a metrologist engineer, who studies backend from Russia 🇷🇺</h3>
 ⚡⚡⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Победит+тот+кто+умней)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Победит+тот,+кто+умней)](https://git.io/typing-svg)
 <br>
 <h1 align="center">💬Будьте самоучками, не ждите, когда вас научит жизнь.💬<p>(Эрих Мария Ремарк)</p></h1>
 <br>
