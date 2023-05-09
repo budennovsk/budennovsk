@@ -8,6 +8,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Победит+тот+кто+умней)](https://git.io/typing-svg)
 <br>
 <h1 align="center">⚡🌱💬Будьте самоучками, не ждите, когда вас научит жизнь.⚡🌱💬 <p>(Эрих Мария Ремарк)</p> </h1>
+<br>
+<h1>👯  </h1>
+<div id="badges">
+   <a href="www.lox.ruL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VgI9SujRQ4GlgsWzQv/giphy.gif" width="100"/>
+</div>
 
 <!--
 **budennovsk/budennovsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
