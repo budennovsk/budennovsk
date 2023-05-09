@@ -11,7 +11,7 @@
 <br>
 <h1>👯  </h1>
 <div id="badges">
-   <a href="www.lox.ruL">
+   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
