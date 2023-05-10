@@ -5,7 +5,7 @@
 <h3 align="center">I am a metrologist engineer, who studies backend from Russia 🇷🇺</h3>
 ⚡⚡⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Победит+тот,+кто+умней)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Django+SQL)](https://git.io/typing-svg)
 <br>
 <h2 align="center">💬Будьте самоучками, не ждите, когда вас научит жизнь.💬<p>(Эрих Мария Ремарк)</p></h2>
 <br>
@@ -37,9 +37,12 @@ Here are some ideas to get you started:
 <h1>⚡ GitHub Stats: </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=budennovsk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+
+___
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=budennovsk&theme=dark)](https://git.io/streak-stats) 
-<br> 
+
+___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budennovsk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+___
 [![codewars](https://www.codewars.com/users/budennovsk/badges/large)](https://www.codewars.com/users/budennovsk/badges/large)
