@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">💬Будьте самоучками, не ждите, когда вас научит жизнь.💬<p>(Эрих Мария Ремарк)</p></h1>
 <br>
-<h1>👯 Socials: </h1>
+<h1>👯 Social: </h1>
 
 <div id="badges">
    <a href="https://www.instagram.com/svetloewill/">
