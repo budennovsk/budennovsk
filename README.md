@@ -1,9 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=budennovsk)
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>&#127479;&#127482;</h1>
 <h3 align="center">I am a :factory:metrologist :triangular_ruler: engineer :hammer:, who studies backend from Russia 🇷🇺</h3>
 ⚡⚡⚡
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Django+SQL)](https://git.io/typing-svg)
 <br>
