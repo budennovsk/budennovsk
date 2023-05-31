@@ -31,6 +31,7 @@ ___
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/sergei-zinchenko-6/)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=budennovsk&theme=dark)](https://github.com/budennovsk/leetcode-stats)
 ___
 
 <h1>:chart_with_upwards_trend: GitHub Stats: </h1>
