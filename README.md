@@ -1,8 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=budennovsk)
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>&#127479;&#127482;</h1>
-<h3 align="center">I am a :factory:metrologist :triangular_ruler: engineer :hammer:, who studies backend from Russia 🇷🇺</h3>
+<h3 align="center">I am a :factory:metrologist :triangular_ruler: student :hammer:, who studies backend from Russia 🇷🇺</h3>
 ⚡⚡⚡
 
 
