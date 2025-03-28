@@ -6,7 +6,7 @@
 ⚡⚡⚡
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+ML+DL)](https://git.io/typing-svg)
 <br>
 <h2 align="center">💬Учение — только свет, по народной пословице, — оно также и свобода. Ничто так не освобождает человека, как знание.
 💬<p>(Иван Сергеевич Тургенев)</p></h2>
